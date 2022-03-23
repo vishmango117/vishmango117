@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishmango117
 - 👀 I’m interested in all forms of Software Development
-- 🌱 I’m currently learning Python Data Processing Libraries like Pandas and also C# as well.
+- 🌱 I’m currently learning Web Development with a focus on Backend Development.
 - 💞️ I’m looking to collaborate on any cool fun projects.
 - 📫 I'm available via email vishal-lollers@hotmail.com
 
